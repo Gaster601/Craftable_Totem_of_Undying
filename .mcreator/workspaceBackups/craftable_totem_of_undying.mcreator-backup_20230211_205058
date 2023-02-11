@@ -1,0 +1,60 @@
+{
+  "mod_elements": [
+    {
+      "name": "RecipeTotemOfUndying",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_totem_of_undying"
+    },
+    {
+      "name": "ItemTotemBase",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_totem_base"
+    },
+    {
+      "name": "RecipeTotemCore",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_totem_core"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.craftable_totem_of_undying.item_totem_base": "Totem Core"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "craftable_totem_of_undying",
+    "modName": "Craftable Totem of Undying",
+    "version": "1.0.0",
+    "description": "adds a way of crafting the Totem of Undying",
+    "author": "Gaster601",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "craftabletotem_logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.craftabletotemofundying",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

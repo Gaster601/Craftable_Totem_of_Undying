@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "totem",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Blocks.YELLOW_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Blocks.YELLOW_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": "Blocks.RESPAWN_ANCHOR"
+      },
+      {
+        "value": "Blocks.YELLOW_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Blocks.YELLOW_GLAZED_TERRACOTTA"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ItemTotemBase"
+    },
+    "name": "recipe_totem_core",
+    "namespace": "mod"
+  }
+}

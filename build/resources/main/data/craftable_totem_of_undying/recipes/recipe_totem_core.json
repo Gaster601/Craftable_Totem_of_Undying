@@ -1,0 +1,42 @@
+{
+  "group": "totem",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "minecraft:yellow_glazed_terracotta"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "minecraft:yellow_glazed_terracotta"
+    },
+    "4": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "5": {
+      "item": "minecraft:yellow_glazed_terracotta"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "minecraft:yellow_glazed_terracotta"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "craftable_totem_of_undying:item_totem_base",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+Java Launcher: D:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\andre\.mcreator\gradle\caches\modules-2\files-2.1\mezz.jei\jei-1.15.2\6.0.0.4\d04fa269e1cf180d14997a74913e8c71ab3a769\jei-1.15.2-6.0.0.4-api.jar, --output, C:\Users\andre\.mcreator\gradle\caches\forge_gradle\deobf_dependencies\mezz\jei\jei-1.15.2\6.0.0.4_mapped_official_1.19.2\jei-1.15.2-6.0.0.4_mapped_official_1.19.2-api.jar, --mcp, C:\Users\andre\.mcreator\gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.19.2\mapping-1.19.2-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\andre\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.3.2\installertools-1.3.2-fatjar.jar
+Working directory: D:\MCreator_WS\Craftable_Totem_Of_Undying\build\_RenameSrg2Mcp_1700812388
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\andre\.mcreator\gradle\caches\modules-2\files-2.1\mezz.jei\jei-1.15.2\6.0.0.4\d04fa269e1cf180d14997a74913e8c71ab3a769\jei-1.15.2-6.0.0.4-api.jar
+Output: C:\Users\andre\.mcreator\gradle\caches\forge_gradle\deobf_dependencies\mezz\jei\jei-1.15.2\6.0.0.4_mapped_official_1.19.2\jei-1.15.2-6.0.0.4_mapped_official_1.19.2-api.jar
+MCP:    C:\Users\andre\.mcreator\gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.19.2\mapping-1.19.2-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="craftable_totem_of_undying"
+version="1.0.0"
+displayName="Craftable Totem of Undying"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="Gaster601"
+description='''
+adds a way of crafting the Totem of Undying
+'''
+
+[[dependencies.craftable_totem_of_undying]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

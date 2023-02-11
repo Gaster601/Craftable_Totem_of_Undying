@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "craftable_totem_of_undying mod resources",
+    "pack_format": 9,
+    "forge:resource_pack_format": 9,
+    "forge:data_pack_format": 10
+  }
+}
