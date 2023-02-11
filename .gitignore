@@ -1,4 +1,4 @@
 
-.mcreator/
-run/*
+**/.mcreator/
+**/run/
 *.txt
